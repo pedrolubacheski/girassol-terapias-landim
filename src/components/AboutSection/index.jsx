@@ -5,14 +5,14 @@ function AboutSection() {
         <div className="w-full md:w-1/2 flex justify-center">
           <div className="relative">
             <img
-              src="/src/assets/images/girassois.png"
+              src="./assets/images/girassois.png"
               alt="Decoração Girassol"
               className="absolute -top-2 -left-6 w-32 h-32 z-20 object-contain"
             />
             <div className="w-72 h-96 bg-white/40 rounded-t-full shadow-xl border-4 border-white flex items-center justify-center overflow-hidden">
               <span className="text-[#563A24]/50 font-[Cantarell]">
                 <img
-                  src="/src/assets/images/foto (1).png"
+                  src="./assets/images/foto (1).png"
                   alt="Sobre mim"
                   className="w-full h-80 mt-12 ml-2 object-cover"
                 />

@@ -4,15 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@theme {
-  --font-roboto: "Roboto", sans-serif;
-  --font-cambo: "Cambo", serif;
-  --font-cantarell: "Cantarell", sans-serif;
-  --font-montserrat: "Montserrat", sans-serif;
-  --font-lobster: "Lobster", sans-serif;
-  --font-lobster-two: "Lobster Two", sans-serif;
-}
-
 @layer base {
   * {
     margin: 0;
@@ -26,6 +17,6 @@
 
   body {
     background-color: #fffdf9;
-    font-family: var(--font-montserrat);
+    font-family: "Montserrat", sans-serif;
   }
 }

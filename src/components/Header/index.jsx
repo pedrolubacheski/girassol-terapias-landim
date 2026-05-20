@@ -39,7 +39,7 @@ function Header() {
 
       <div className="flex flex-col items-center justify-center z-10 w-full px-6 md:px-0">
         <img
-          src="/src/assets/icons/logo.png"
+          src="./assets/icons/logo.png"
           alt="logo"
           className="w-24 md:w-28 lg:w-32 mb-4 md:mb-0 md:absolute md:left-8 md:top-1/2 md:-translate-y-1/2"
         />
@@ -107,7 +107,7 @@ function Header() {
 
       <div className="hidden md:block absolute right-0 top-0 h-full overflow-hidden z-0">
         <img
-          src="/src/assets/images/image21.png"
+          src="./assets/images/image21.png"
           alt="girassóis"
           className="lg:w-60 object-cover"
         />

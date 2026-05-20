@@ -3,47 +3,47 @@ function ServicesSection() {
     {
       name: "Massagem Relaxante",
       price: "R$ 50",
-      file: "/src/assets/images/massagens.png",
+      file: "./assets/images/massagens.png",
     },
     {
       name: "Massagem Terapêutica",
       price: "R$ 100",
-      file: "/src/assets/images/massagem_terapeutica.png",
+      file: "./assets/images/massagem_terapeutica.png",
     },
     {
       name: "Massagem Havaiana",
       price: "R$ 100",
-      file: "/src/assets/images/massagem_havaiana.png",
+      file: "./assets/images/massagem_havaiana.png",
     },
     {
       name: "Bambuterapia",
       price: "R$ 120",
-      file: "/src/assets/images/bambuterapia.png",
+      file: "./assets/images/bambuterapia.png",
     },
     {
       name: "Argiloterapia",
       price: "R$ 50",
-      file: "/src/assets/images/argiloterapia.png",
+      file: "./assets/images/argiloterapia.png",
     },
     {
       name: "Podologia",
       price: "R$ 50",
-      file: "/src/assets/images/podologia.png",
+      file: "./assets/images/podologia.png",
     },
     {
       name: "Pedras Quentes",
       price: "R$ 100",
-      file: "/src/assets/images/pedras_quentes.png",
+      file: "./assets/images/pedras_quentes.png",
     },
     {
       name: "Auriculoterapia",
       price: "R$ 40",
-      file: "/src/assets/images/auriculoterapia.png",
+      file: "./assets/images/auriculoterapia.png",
     },
     {
       name: "Acupuntura Eletrônica",
       price: "R$ 50",
-      file: "/src/assets/images/acupuntura_eletronica.png",
+      file: "./assets/images/acupuntura_eletronica.png",
     },
   ];
 

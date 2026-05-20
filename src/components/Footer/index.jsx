@@ -19,7 +19,7 @@ function Footer() {
 
       <div className="absolute right-[-20px] bottom-[-20px] w-48 opacity-50 pointer-events-none">
         <img
-          src="/src/assets/images/girassois.png"
+          src="./assets/images/girassois.png"
           alt="girassóis"
           className="w-full h-auto"
         />

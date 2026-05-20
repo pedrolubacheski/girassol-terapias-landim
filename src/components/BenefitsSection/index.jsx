@@ -37,7 +37,7 @@ function BenefitsSection() {
             >
               <div className="w-16 h-16 bg-[#F1BF4C] rounded-full flex items-center justify-center mb-4">
                 <img
-                  src={`/src/assets/icons/icon-${benefit.index}.png`}
+                  src={`./assets/icons/icon-${benefit.index}.png`}
                   alt={`ícone ${benefit.title}`}
                   className="w-10 h-10 object-contain"
                 />

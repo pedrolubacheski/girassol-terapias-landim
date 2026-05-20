@@ -25,7 +25,7 @@ function ContactSection() {
             className="flex items-center gap-3 bg-[#25D366] text-white px-8 py-4 rounded-full font-[Cantarell] text-lg shadow-lg hover:bg-green-600 transition-colors"
           >
             <img
-              src="/src/assets/icons/whatsapp.png"
+              src="./assets/icons/whatsapp.png"
               alt="WhatsApp"
               className="w-6 h-6"
               onError={(e) => (e.target.style.display = "none")}
@@ -36,7 +36,7 @@ function ContactSection() {
           <div className="flex flex-col text-[#563A24] font-[Cantarell] text-left">
             <span className="flex items-center gap-2">
               <img
-                src="/src/assets/icons/instagram.png"
+                src="./assets/icons/instagram.png"
                 alt="Insta"
                 className="w-5 h-5"
                 onError={(e) => (e.target.style.display = "none")}
@@ -45,7 +45,7 @@ function ContactSection() {
             </span>
             <span className="flex items-center gap-2 mt-2">
               <img
-                src="/src/assets/icons/location.png"
+                src="./assets/icons/location.png"
                 alt="Local"
                 className="w-5 h-5"
                 onError={(e) => (e.target.style.display = "none")}

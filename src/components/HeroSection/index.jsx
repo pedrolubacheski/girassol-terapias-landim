@@ -5,7 +5,7 @@ function HeroSection() {
       className="relative w-full h-[800px] md:h-[900px] overflow-hidden"
     >
       <img
-        src="/src/assets/images/hero-image.png"
+        src="./assets/images/hero-image.png"
         alt="heroimage"
         className="absolute inset-0 w-full h-full object-cover -z-10"
       />
